@@ -1,0 +1,23 @@
+.buttons-tab{
+    display: inline;
+    flex-wrap: wrap;
+    flex-direction: row;
+    list-style-type: none;
+}
+.tab-btns{
+    background-color: transparent;
+    border: none;
+    margin: 10px;
+    color: chocolate;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.active-tab-btn{
+    border: solid 3px rgb(101, 184, 19);
+    color: rgb(101, 184, 19);
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
