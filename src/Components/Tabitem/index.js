@@ -1,4 +1,4 @@
-import { tab } from '@testing-library/user-event/dist/tab'
+
 import './index.css'
 
 const Tabitem = (props) => {
